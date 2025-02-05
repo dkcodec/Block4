@@ -13,7 +13,7 @@ Assignmnet 4 by group of students.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/diaszakir/assignment4blockprog.git
+   git clone https://github.com/dkcodec/Block4.git
    cd assignment4blockprog
    ```
 
@@ -49,11 +49,6 @@ Assignmnet 4 by group of students.
    ![4](https://github.com/dkcodec/Block4/blob/main/screenshots/4.png)
    ![5](https://github.com/dkcodec/Block4/blob/main/screenshots/5.png)
    ![6](https://github.com/dkcodec/Block4/blob/main/screenshots/6.png)
-   
-
-   
-   
-   
 
 ### **Authors & Contributors**
 
