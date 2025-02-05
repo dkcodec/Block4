@@ -43,6 +43,18 @@ Assignmnet 4 by group of students.
 
    The application will be available at `http://localhost:3000`.
 
+   ![1](https://github.com/dkcodec/Block4/blob/main/screenshots/1.png)
+   ![2](https://github.com/dkcodec/Block4/blob/main/screenshots/2.png)
+   ![3](https://github.com/dkcodec/Block4/blob/main/screenshots/3.png)
+   ![4](https://github.com/dkcodec/Block4/blob/main/screenshots/4.png)
+   ![5](https://github.com/dkcodec/Block4/blob/main/screenshots/5.png)
+   ![6](https://github.com/dkcodec/Block4/blob/main/screenshots/6.png)
+   
+
+   
+   
+   
+
 ### **Authors & Contributors**
 
 - Kairgeldin Dmitriy
