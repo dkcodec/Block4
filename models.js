@@ -3,7 +3,7 @@ import { contractABI } from './contractABI.js'
 const provider = new ethers.providers.Web3Provider(window.ethereum)
 let signer
 let userAddress
-const tokenAddress = '0x24D8f93F28fA11d795AEcAeBCB8020e721758eCb'
+const tokenAddress = '0xD9FFEe7063d2D0b45F0A0d2601DF2fa191DB6249'
 let tokenContract = new ethers.Contract(tokenAddress, contractABI, provider)
 
 async function connectWallet() {
