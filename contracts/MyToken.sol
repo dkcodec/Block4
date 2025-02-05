@@ -39,7 +39,7 @@ contract MyToken is ERC20, Ownable {
     mapping(address => mapping(uint256 => bool)) public hasRated;
     uint256 private nextModelId = 1;
     
-    constructor() ERC20("AITUSE-2320", "ATE") Ownable(msg.sender) {
+    constructor() ERC20("SuperToken2320", "ATE") Ownable(msg.sender) {
         _mint(msg.sender, 2000 * 10**18);
     }
     
